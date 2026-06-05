@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Aringale 👋
 
-Backend-Heavy Fullstack Developer with nearly 3 years of experience building scalable enterprise applications and high-throughput microservices.
+Fullstack Developer with nearly 3 years of experience building scalable enterprise applications and high-throughput microservices.
 
 I own the full feature lifecycle — from designing responsive React frontends to architecting complex, event-driven Node.js/Kafka backend systems capable of handling massive concurrency. My focus is on highly available systems, database optimization, and seamless UI/UX experiences.
 
